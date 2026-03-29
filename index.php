@@ -62,7 +62,7 @@
     }
 
     .brand {
-      font-size: 1.35rem;
+      font-size: 1.6rem;
       letter-spacing: 0.18em;
       font-weight: 700;
       text-transform: uppercase;
@@ -321,12 +321,12 @@
   <div class="page">
     <header class="container">
       <nav class="nav">
-        <div class="brand">Wiki Motos</div>
+        <div class="brand">Wiki Motors</div>
         <div class="nav-links">
           <a href="#discover">Discover</a>
           <a href="#features">Features</a>
           <a href="#collection">Collection</a>
-          <a href="#contact">Contact</a>
+          <a href="contact.php">Contact</a>
         </div>
       </nav>
     </header>
@@ -406,7 +406,7 @@
     </main>
 
     <footer class="container" id="contact">
-      <p>Wiki Motos — Built for car lovers who demand style, selection, and performance. Contact us anytime for help matching the perfect car to your journey.</p>
+      <p>Wiki Motos — Built for car lovers who demand style, selection, and performance. <a href="contact.php">Contact us anytime</a> for help matching the perfect car to your journey.</p>
     </footer>
   </div>
 </body>
