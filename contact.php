@@ -20,7 +20,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     }
 }
 
-$contacts = $db->query('SELECT * FROM contactmessage ORDER BY id DESC')->fetchAll(PDO::FETCH_ASSOC);
+$contacts = $db->query('SELECT * FROM contact message ORDER BY id DESC')->fetchAll(PDO::FETCH_ASSOC);
 $success = isset($_GET['sent']);
 ?>
 <!DOCTYPE html>
