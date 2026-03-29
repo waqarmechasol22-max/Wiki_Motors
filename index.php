@@ -321,7 +321,7 @@
   <div class="page">
     <header class="container">
       <nav class="nav">
-        <div class="brand">Wiki Motors</div>
+        <div class="brand">Wiki Motors Feature1</div>
         <div class="nav-links">
           <a href="#discover">Discover</a>
           <a href="#features">Features</a>
